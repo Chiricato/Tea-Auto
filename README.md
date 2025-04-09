@@ -23,7 +23,7 @@ Follow these steps to install and run the script:
 - Clone this repository to your local computer:
 
 ``` bash
-git clone https://github.com/TestnetMaster29/Tea-Auto.git
+git clone https://github.com/Chiricato/Tea-Auto.git
 
 cd Tea-Auto
 
