@@ -6,8 +6,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+     "name": "Chiricato"
+   },
+   "license": "ISC",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/Chiricato/Tea-Auto.git"
+   },
+   "bugs": {
+     "url": "https://github.com/Chiricato/Tea-Auto/issues"
+   },
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
